@@ -8,6 +8,7 @@ function Footer() {
       <div>all right reserve</div>
       
       <div className={styles.socIcons}>
+        {/* hello */}
         <Image src="/1.png" width={15} height={15} alt="Facebook" />
         <Image src="/2.png" width={15} height={15} alt="Instagram" />
         <Image src="/3.png" width={15} height={15} alt="Tweeter" />
