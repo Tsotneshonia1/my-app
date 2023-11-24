@@ -1,0 +1,15 @@
+.container{
+    background-color: red;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;    
+}
+
+.socIcons{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
