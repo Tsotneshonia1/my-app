@@ -1,6 +1,5 @@
 .container{
-    /* jus for testing */
-    background-color: red;
+       
     height: 50px;
     display: flex;
     justify-content: space-between;
