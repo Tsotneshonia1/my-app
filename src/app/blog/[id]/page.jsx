@@ -1,6 +1,7 @@
 import React from 'react'
 
-function SingleBlog() {
+function SingleBlog({params}) {
+  console.log(params)
   return (
     <div>SingleBlog</div>
   )
